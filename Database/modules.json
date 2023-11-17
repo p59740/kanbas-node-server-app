@@ -1,0 +1,179 @@
+[
+    {
+      "_id": "M101",
+      "name": "Introduction to Rocket Propulsion",
+      "description": "Basic principles of rocket propulsion and rocket engines.",
+      "course": "RS101",
+      "lessons": [
+        {
+          "_id": "L101",
+          "name": "Rocket Propulsion Fundamentals",
+          "description": "Introduction to the fundamental principles of rocket propulsion and its importance in space exploration."
+        },
+        {
+          "_id": "L102",
+          "name": "Types of Rocket Engines",
+          "description": "Exploration of different types of rocket engines and their applications in space travel."
+        },
+        {
+          "_id": "L103",
+          "name": "Rocket Propellant Chemistry",
+          "description": "Study of the chemistry behind rocket propellants and their combustion reactions."
+        }
+      ]
+    },
+    {
+      "_id": "M102",
+      "name": "Fuel and Combustion",
+      "description": "Understanding rocket fuel, combustion processes, and efficiency.",
+      "course": "RS101",
+      "lessons": [
+        {
+          "_id": "L201",
+          "name": "Types of Rocket Fuels",
+          "description": "Exploration of various rocket fuels, including liquid hydrogen, kerosene, and solid propellants."
+        },
+        {
+          "_id": "L202",
+          "name": "Combustion Processes",
+          "description": "Study of the combustion processes in rocket engines and the release of energy."
+        },
+        {
+          "_id": "L203",
+          "name": "Efficiency and Thrust",
+          "description": "Analysis of the efficiency and thrust generation in rocket engines."
+        }
+      ]
+    },
+    {
+      "_id": "M103",
+      "name": "Nozzle Design",
+      "description": "Principles of rocket nozzle design and performance optimization.",
+      "course": "RS101",
+      "lessons": [
+        {
+          "_id": "L301",
+          "name": "Nozzle Geometry",
+          "description": "Exploration of nozzle geometry and its impact on propellant acceleration."
+        },
+        {
+          "_id": "L302",
+          "name": "Thrust Vector Control",
+          "description": "Understanding thrust vector control mechanisms in rocket nozzles."
+        },
+        {
+          "_id": "L303",
+          "name": "Optimizing Nozzle Performance",
+          "description": "Techniques for optimizing nozzle performance for different mission profiles."
+        }
+      ]
+    },
+    {
+      "_id": "M201",
+      "name": "Fundamentals of Aerodynamics",
+      "description": "Basic aerodynamic concepts and fluid dynamics principles.",
+      "course": "RS102",
+      "lessons": [
+        {
+          "_id": "L401",
+          "name": "Aerodynamic Forces",
+          "description": "Introduction to aerodynamic forces, including lift and drag."
+        },
+        {
+          "_id": "L402",
+          "name": "Fluid Dynamics",
+          "description": "Exploration of fluid dynamics and its relevance in aerodynamics."
+        }
+      ]
+    },
+    {
+      "_id": "M202",
+      "name": "Subsonic and Supersonic Flow",
+      "description": "Understanding subsonic and supersonic aerodynamic behaviors.",
+      "course": "RS102",
+      "lessons": [
+        {
+          "_id": "L501",
+          "name": "Subsonic Aerodynamics",
+          "description": "Study of aerodynamic behaviors in subsonic flow conditions."
+        },
+        {
+          "_id": "L502",
+          "name": "Supersonic Aerodynamics",
+          "description": "Analysis of aerodynamic behaviors in supersonic flow conditions."
+        }
+      ]
+    },
+    {
+      "_id": "M203",
+      "name": "Aerodynamic Heating",
+      "description": "Study of aerodynamic heating and thermal protection systems.",
+      "course": "RS102",
+      "lessons": [
+        {
+          "_id": "L601",
+          "name": "Heat Transfer in Reentry",
+          "description": "Understanding heat transfer during spacecraft reentry into the Earth's atmosphere."
+        },
+        {
+          "_id": "L602",
+          "name": "Thermal Protection Systems",
+          "description": "Exploration of thermal protection systems to withstand aerodynamic heating."
+        }
+      ]
+    },
+    {
+      "_id": "M301",
+      "name": "Spacecraft Structural Design",
+      "description": "Fundamentals of designing spacecraft structures and materials selection.",
+      "course": "RS103",
+      "lessons": [
+        {
+          "_id": "L701",
+          "name": "Structural Materials",
+          "description": "Introduction to materials used in spacecraft structural design."
+        },
+        {
+          "_id": "L702",
+          "name": "Load Analysis",
+          "description": "Analysis of structural loads and their impact on spacecraft design."
+        }
+      ]
+    },
+    {
+      "_id": "M302",
+      "name": "Orbital Mechanics",
+      "description": "Understanding orbital dynamics and mission planning.",
+      "course": "RS103",
+      "lessons": [
+        {
+          "_id": "L801",
+          "name": "Kepler's Laws of Planetary Motion",
+          "description": "Exploration of Kepler's laws and their application to understanding planetary motion."
+        },
+        {
+          "_id": "L802",
+          "name": "Orbit Determination",
+          "description": "Study of methods for determining and predicting the orbits of celestial bodies."
+        }
+      ]
+    },
+    {
+      "_id": "M303",
+      "name": "Spacecraft Systems Engineering",
+      "description": "Overview of spacecraft systems and subsystems engineering.",
+      "course": "RS103",
+      "lessons": [
+        {
+          "_id": "L901",
+          "name": "Systems Engineering Process",
+          "description": "Introduction to the systems engineering process for spacecraft development."
+        },
+        {
+          "_id": "L902",
+          "name": "Subsystems Integration",
+          "description": "Integration of spacecraft subsystems to ensure proper functionality."
+        }
+      ]
+    }
+  ]
